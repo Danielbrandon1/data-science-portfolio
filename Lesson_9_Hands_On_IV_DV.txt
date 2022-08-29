@@ -1,0 +1,27 @@
+1.
+IV - Club Card
+DV- Signing up for card & Gender
+Trying to see the number of signups based on gender
+Goodness of Fit Chi-Square
+
+2.
+IV-Club Card
+	-Silver
+	-Gold
+	-Plat
+DV-Money Spent
+Money spent based off of card memebr level
+
+Stepwise Multinomial Logistic Regression
+
+3.
+IV-Club Card
+DV-Before or After Card (Time)
+Spend more money before getting card or after
+McNemar Chi-Square
+
+4.
+IV-Club Card
+DV-Age
+Age matter if theyll sign up
+Structutral Equation Modeling
